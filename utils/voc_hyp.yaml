@@ -1,0 +1,7 @@
+lr : 0.01
+momentum: 0.843
+weight_decacy : 0.00036
+warmup_epochs: 3.0
+warmup_bias_lr: 0.05
+warmup_momentum: 0.5
+Adam : True
